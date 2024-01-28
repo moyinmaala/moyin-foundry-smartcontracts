@@ -50,4 +50,8 @@ I'm so happy to have started my journey as a smart contract developer. i'll be g
 CONTRIBUTIONS
 
 I would appreciate your contributions on this journey. you can send ETH to this address : 0xD09DbEbCf4135539A59102d043CF4E6b69818ADF 
+
+
+
+
 Thank you!
