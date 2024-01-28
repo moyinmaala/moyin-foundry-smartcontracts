@@ -32,6 +32,10 @@ CREDITS
 Massive thanks to [MR PATRICK COLLINS](https://github.com/PatrickAlphaC) and [CYFRIN TUTORIALS](https://github.com/Cyfrin) for breaking solidity down for me like ABC and the open source repository that i could interact with.
 
 
+
+  CONTACTS
+
+  
 I'm so happy to have started my journey as a smart contract developer. i'll be glad to get your feedback, interactions and suggestions. Feel free to contact me on;
 
 
