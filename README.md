@@ -16,7 +16,7 @@ CLONE
 
 Clone the repository to your development environment using this code;
 
-``` git clone moyin-foundry-smartcotracts```
+``` git clone moyin-foundry-smartcontracts```
 
 
 
